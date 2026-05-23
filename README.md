@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vmit123/pushhere/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,4 +26,16 @@
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
