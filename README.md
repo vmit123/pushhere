@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
