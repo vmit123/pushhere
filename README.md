@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0688-knight-probability-in-chessboard](https://github.com/vmit123/pushhere/tree/master/0688-knight-probability-in-chessboard) |
 <!---LeetCode Topics End-->
