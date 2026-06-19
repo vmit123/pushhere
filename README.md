@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
@@ -46,5 +47,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/vmit123/pushhere/tree/master/0688-knight-probability-in-chessboard) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
