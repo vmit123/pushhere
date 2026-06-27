@@ -53,4 +53,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/vmit123/pushhere/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
