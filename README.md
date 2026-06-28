@@ -63,4 +63,12 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/vmit123/pushhere/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/vmit123/pushhere/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
