@@ -24,6 +24,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vmit123/pushhere/tree/master/0155-min-stack) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/vmit123/pushhere/tree/master/0060-permutation-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vmit123/pushhere/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
