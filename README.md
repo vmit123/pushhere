@@ -18,17 +18,20 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/vmit123/pushhere/tree/master/0155-min-stack) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
