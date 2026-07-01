@@ -88,4 +88,16 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/vmit123/pushhere/tree/master/2073-time-needed-to-buy-tickets) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
