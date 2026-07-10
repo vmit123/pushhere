@@ -29,11 +29,13 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/vmit123/pushhere/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Database
 |  |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vmit123/pushhere/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
