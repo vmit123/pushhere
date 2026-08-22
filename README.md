@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/vmit123/pushhere/tree/master/0060-permutation-sequence) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vmit123/pushhere/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
