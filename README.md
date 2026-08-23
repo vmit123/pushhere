@@ -74,6 +74,7 @@
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
 ## Database
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/vmit123/pushhere/tree/master/0060-permutation-sequence) |
+| [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vmit123/pushhere/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -127,8 +129,13 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vmit123/pushhere/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
+| [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vmit123/pushhere/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
