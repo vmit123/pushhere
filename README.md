@@ -25,6 +25,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vmit123/pushhere/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vmit123/pushhere/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vmit123/pushhere/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vmit123/pushhere/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/vmit123/pushhere/tree/master/0688-knight-probability-in-chessboard) |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/vmit123/pushhere/tree/master/0060-permutation-sequence) |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vmit123/pushhere/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -137,5 +140,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
