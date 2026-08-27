@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/vmit123/pushhere/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/vmit123/pushhere/tree/master/0735-asteroid-collision) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/vmit123/pushhere/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
