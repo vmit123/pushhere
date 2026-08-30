@@ -28,6 +28,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/vmit123/pushhere/tree/master/1872-stone-game-viii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vmit123/pushhere/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vmit123/pushhere/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vmit123/pushhere/tree/master/2104-sum-of-subarray-ranges) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vmit123/pushhere/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
@@ -78,6 +79,7 @@
 | [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/vmit123/pushhere/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vmit123/pushhere/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Database
 |  |
 | ------- |
