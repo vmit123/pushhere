@@ -20,6 +20,7 @@
 | [0040-combination-sum-ii](https://github.com/vmit123/pushhere/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
+| [0485-max-consecutive-ones](https://github.com/vmit123/pushhere/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/vmit123/pushhere/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vmit123/pushhere/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
