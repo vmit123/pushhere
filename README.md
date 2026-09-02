@@ -21,6 +21,7 @@
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/vmit123/pushhere/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/vmit123/pushhere/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vmit123/pushhere/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -90,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
@@ -121,6 +123,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vmit123/pushhere/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
+| [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vmit123/pushhere/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/vmit123/pushhere/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
