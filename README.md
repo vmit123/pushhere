@@ -25,6 +25,7 @@
 | [0735-asteroid-collision](https://github.com/vmit123/pushhere/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vmit123/pushhere/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vmit123/pushhere/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vmit123/pushhere/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vmit123/pushhere/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vmit123/pushhere/tree/master/1539-kth-missing-positive-number) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vmit123/pushhere/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vmit123/pushhere/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
@@ -124,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vmit123/pushhere/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
 | [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vmit123/pushhere/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vmit123/pushhere/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vmit123/pushhere/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
