@@ -4,15 +4,18 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vmit123/pushhere/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vmit123/pushhere/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vmit123/pushhere/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Array
 |  |
@@ -55,6 +58,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
