@@ -140,10 +140,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/vmit123/pushhere/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/vmit123/pushhere/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/vmit123/pushhere/tree/master/0141-linked-list-cycle) |
 ## Union-Find
 |  |
