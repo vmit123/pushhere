@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vmit123/pushhere/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vmit123/pushhere/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
@@ -15,6 +16,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vmit123/pushhere/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vmit123/pushhere/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Array
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vmit123/pushhere/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/vmit123/pushhere/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/vmit123/pushhere/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/vmit123/pushhere/tree/master/0735-asteroid-collision) |
@@ -59,6 +62,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vmit123/pushhere/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vmit123/pushhere/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/vmit123/pushhere/tree/master/0207-course-schedule) |
 ## Graph Theory
