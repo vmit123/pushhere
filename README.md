@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vmit123/pushhere/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/vmit123/pushhere/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/vmit123/pushhere/tree/master/0057-insert-interval) |
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vmit123/pushhere/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vmit123/pushhere/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vmit123/pushhere/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
