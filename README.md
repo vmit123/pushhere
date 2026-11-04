@@ -29,6 +29,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vmit123/pushhere/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vmit123/pushhere/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/vmit123/pushhere/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vmit123/pushhere/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vmit123/pushhere/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/vmit123/pushhere/tree/master/0645-set-mismatch) |
@@ -83,6 +84,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vmit123/pushhere/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vmit123/pushhere/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vmit123/pushhere/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/vmit123/pushhere/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vmit123/pushhere/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vmit123/pushhere/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vmit123/pushhere/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
