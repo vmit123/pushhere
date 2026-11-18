@@ -1,29 +1,29 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        int low= 1;
-        int high = Integer.MIN_VALUE;
-        int ans = 0;
-        int mid = 0;
+        int min = 70000;
+        int max=-1;
+        
+        int ans = -1;
         for(int i = 0;i<nums.length;i++) {
-            low = Math.min(nums[i],low);
-            high = Math.max(nums[i],high);
+            min = Math.min(min,nums[i]);
+            max = Math.max(max,nums[i]);
         }
-        while(low<=high) {
-            mid = (low + high)/2;
+        int start = 1;
+        int end = max;
+        while(start <= end) {
+            int mid = start + (end - start)/2;
             int sum = 0;
             for(int i = 0;i<nums.length;i++) {
                 sum += (double)Math.ceil((double)nums[i] /(double) mid);
             }
-            if(sum > threshold){
-                low = mid+1;
+            if(sum > threshold) {
+                start = mid+1;
             }
-            else {
+            else {    
                 ans = mid;
-                high = mid-1;
+                end = mid-1;
             }
-            
         }
-       
         return ans;
     }
 }
