@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vmit123/pushhere/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vmit123/pushhere/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/vmit123/pushhere/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vmit123/pushhere/tree/master/0045-jump-game-ii) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vmit123/pushhere/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vmit123/pushhere/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vmit123/pushhere/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vmit123/pushhere/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vmit123/pushhere/tree/master/0084-largest-rectangle-in-histogram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vmit123/pushhere/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
